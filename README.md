@@ -34,6 +34,7 @@ By solving this test I face some difficulties not only with the data itself but 
    * Artwork Table:
      * Artist ID, presents in some of them more than one id and some with null values so we cannot link completly with artist table
      * Date field as well present non homologate values 
+  * Addittional to this, it can also send by different granularity, meaning that it an artwork is from two or more different artist, create two records instead of one that has two ids
    
 * SQL : Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster. 
 
