@@ -20,10 +20,10 @@ By solving this test I face some difficulties not only with the data itself but 
   * This question also have a second solution option this required only one table (artworks) grouping by Artist but some artworks has no linked artist
   
 * SQL Which artist is created the most artwork by total surface area?
-  * Here it is the most difficult issue faced cuz the data its not that easy to classify, is an artwok could be any shape and for that case I need to calculate every posible figure to get the surface, but did a something that posibibly pull it out
+  * Here it is the most difficult issue faced because the data its not that easy to classify, is an artwok could be any shape and for that case I need to calculate every posible figure to get the surface, so the disclaimer its im going to asume 3 types of shapes so I can calulate them
   
 * SQL : Did any artists have artwork acquired during their lifetime?
-  * I think this is kind of a tricky question because 
+  * I think this is kind of a tricky question because I dont get that much this question, any artist acquired artwork during lifetime, what I did was just a corroboration on the years with the data
   
 * Please review the quality of the data, and present any issues
   * Artist Table: 
@@ -37,7 +37,7 @@ By solving this test I face some difficulties not only with the data itself but 
   * Addittional to this, it can also send by different granularity, meaning that it an artwork is from two or more different artist, create two records instead of one that has two ids
    
 * SQL : Please group the artworks into as many clusters as you feel is appropriate, using attributes from both the artist and artworks tables, and assign each artwork to this new cluster. 
-
+  * I set several clusters by Nationality by gender, by classification, by catalogue and combination just to classify the artworks
 
 # Thanks!
 
