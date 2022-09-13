@@ -20,10 +20,10 @@ By solving this test I face some difficulties not only with the data itself but 
   * This question also have a second solution option this required only one table (artworks) grouping by Artist but some artworks has no linked artist
   
 * SQL Which artist is created the most artwork by total surface area?
-  * SDSD
+  * Here it is the most difficult issue faced cuz the data its not that easy to classify, is an artwok could be any shape and for that case I need to calculate every posible figure to get the surface, but did a something that posibibly pull it out
   
 * SQL : Did any artists have artwork acquired during their lifetime?
-  * DDS
+  * I think this is kind of a tricky question because 
   
 * Please review the quality of the data, and present any issues
   * Artist Table: 
